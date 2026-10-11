@@ -74,26 +74,35 @@ The same platform also enables students to discover projects they want to contri
 
 The current interface includes a student dashboard, project discovery page, category filters, search functionality, and a navigation menu for the marketplace and notifications.
 
-Add your screenshots to the repository to showcase the application:
 
 ```text
 CampusConnect/
 ├── README.md
-├── screenshots/
-│   ├── home.png
-│   └── projects.png
+├── screenshots
+├── Campus Connect/
+│   ├── build
+│   └── web
 └── ...
 ```
 
 Once the screenshots are committed, display them here:
 
+*Home dashboard*
+
 ![CampusConnect Home Dashboard](screenshots/home.png)
 
-*Home dashboard*
+*Project discovery and teammate recruitment*
 
 ![CampusConnect Projects Page](screenshots/projects.png)
 
-*Project discovery and teammate recruitment*
+*Book Marketplace*
+
+![CampusConnect Home Dashboard](screenshots/book-marketplace.png)
+
+*User Profile*
+
+![CampusConnect Home Dashboard](screenshots/profile.png)
+
 
 ## 🛠️ Technology Stack
 
