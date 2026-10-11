@@ -227,11 +227,6 @@ For significant changes, consider opening an issue first to discuss the proposed
 
 CampusConnect is intended to be a student-friendly platform. Future development should prioritize secure authentication, protection of student information, input validation, and safe interactions between users.
 
-Never commit passwords, API keys, private credentials, or sensitive user data to the repository.
-
-## 📄 License
-
-A license has not yet been specified. Add a `LICENSE` file when you decide how others may use, modify, and distribute the project.
 
 ## 🌱 Vision
 
