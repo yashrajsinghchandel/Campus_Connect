@@ -85,7 +85,6 @@ CampusConnect/
 └── ...
 ```
 
-Once the screenshots are committed, display them here:
 
 *Home dashboard*
 
